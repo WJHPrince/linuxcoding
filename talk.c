@@ -20,7 +20,7 @@ int main(int argc, char const *argv[])
         }
         fprintf(stdout, "what the fuck?\n");
         fscanf(stdin, "%s", TALK);
-        fprintf(Recever, "%s\n", TALK);
+        fprintf(Recever, "\n%s\n", TALK);
         fclose(Recever);
         exit(0);
 }
