@@ -1,2 +1,2 @@
 # linuxcoding
-linux的一些编程学习
+linux的一些学习
